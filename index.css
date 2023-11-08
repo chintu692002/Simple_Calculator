@@ -1,0 +1,25 @@
+.whole{
+  border: 1px solid black;
+  width: 50%;
+}
+.display
+{
+  margin-top: 20px;
+  margin-left: 50px;
+  padding: 10px;
+}
+.button-container
+{
+  margin:20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button{
+  font-size: larger;
+  width: 55px;
+  padding: 10px;
+  height: 55px;
+  margin: 5px;
+
+}
